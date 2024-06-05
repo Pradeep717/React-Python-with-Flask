@@ -43,5 +43,7 @@ Card ake CardHeader ake apita puluwn Avator akak wagema Box akk danna, Box aka d
 
 
 
-
+----####----
+backend => activate virtual env => run => flask run --reload
+forntend => npm run dev
 
